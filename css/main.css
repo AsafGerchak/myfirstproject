@@ -14,21 +14,3 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
    height: 0;
    clear: both;
 }
-
-.awesome {
-	color: #bada55;
-	font-family: sans-serif;
-}
-
-.awesome p {
-	font-weight: 200;
-}
-
-.sweet {
-	font-family: sans-serif;
-	color: orange;
-}
-
-.lame {
-	color: brown;
-}
