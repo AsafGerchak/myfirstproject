@@ -11,6 +11,6 @@ This is the readme for my first repo. I'm learning how to use markdown.
 
 ****
 
-[![DO U TRUST MEH?!](http://img.youtube.com/vi/kkwMEwenaQQ/0.jpg)(https://www.youtube.com/watch?v=kkwMEwenaQQ)]
+[![DO U TRUST MEH?!](http://img.youtube.com/vi/kkwMEwenaQQ/0.jpg)](https://www.youtube.com/watch?v=kkwMEwenaQQ)
 
 Hmmmm
